@@ -1,0 +1,492 @@
+
+body {
+	background:#333;
+}
+
+
+.introduction {
+    background: #fb5200;
+    text-align: center;
+    color: white;
+}
+
+.introduction h1 {
+    text-transform: uppercase;
+    font-size: 20px;
+    padding-top: 10px;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    font-family: cursive;
+    margin-bottom: 20px;
+}
+
+.introduction h2 {
+    text-transform: capitalize;
+    padding-bottom: 10px;
+    word-spacing: 5px;
+    font-family: arial black;
+    font-size: 25px;
+}
+
+
+
+
+img#myimg {
+    overflow: hidden;
+    width: 600px;
+    height: 400px;
+    border: 6px solid #fb520066;
+    float: right;
+    margin-right: 400px;
+    margin-top: -400px;
+    box-shadow: -2px 1px 20px 3px #ffffff4f;
+}
+
+
+/*.containar button {
+    background: #fb5200;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    margin: 15px;
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 120px;
+    text-align: center;
+}*/
+
+
+button#onclickbtn1 {
+    background: #fb5200;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    /* margin: 15px; */
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 120px;
+    text-align: center;
+	margin-top: 20px;
+    margin-left: 20px;
+}
+
+
+
+button#onclickbtn2 {
+    background: #fb5200;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    /* margin: 15px; */
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 120px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+button#onclickbtn3 {
+    background: #fb5200;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    /* margin: 15px; */
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 120px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+button#onclickbtn4 {
+    background: #fb5200;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    /* margin: 15px; */
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 120px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+button#onclickbtn5 {
+    background: #fb5200;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    /* margin: 15px; */
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 120px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+
+
+button#onclickbtn6 {
+    background: #fb5200;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    /* margin: 15px; */
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 120px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+button#onclickbtn7 {
+    background: #fb5200;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    /* margin: 15px; */
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 120px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+button#onclickbtn7 {}
+
+button#onclickbtn8 {
+    background: #fb5200;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    /* margin: 15px; */
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 120px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+button#onclickbtn8 {}
+
+button#onclickbtn9 {
+    background: #fb5200;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    /* margin: 15px; */
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 120px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+button#onclickbtn9 {}
+
+button#onclickbtn10 {
+    background: #fb5200;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    /* margin: 15px; */
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 120px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+button#onclickbtn10 {}
+
+button#onclickbtn11 {
+    background: #fb5200;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    /* margin: 15px; */
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 120px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+button#onclickbtn11 {}
+
+button#onclickbtn12 {
+    background: #fb5200;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    /* margin: 15px; */
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 120px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+button#onclickbtn12 {}
+
+
+
+button#onclickbtn13 {
+    background: #fb5200;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    /* margin: 15px; */
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 120px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    clear: both;
+    display: grid;
+}
+
+button#onclickbtn14 {
+    background: #fb5200;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    /* margin: 15px; */
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 120px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    clear: both;
+    display: grid;
+}
+
+button#onclickbtn15 {
+    background: #fb5200;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    /* margin: 15px; */
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 120px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    clear: both;
+    display: grid;
+    /* position: absolute; */
+}
+
+button#onclickbtn16 {
+    background: #fb5200;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    /* margin: 15px; */
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 120px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    clear: both;
+    display: grid;
+    /* position: absolute; */
+}
+
+button#onclickbtn17 {}
+
+button#onclickbtn17 {
+    background: #fb5200;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    /* margin: 15px; */
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 120px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    clear: both;
+    display: grid;
+}
+
+button#onclickbtn18 {
+    background: #fb5200;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    /* margin: 15px; */
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 120px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    clear: both;
+    display: grid;
+}
+
+button#onclickbtn19 {
+    background: #fb5200;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    /* margin: 15px; */
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 120px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    clear: both;
+    display: grid;
+}
+
+button#onclickbtn20 {
+    background: #fb5200;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    /* margin: 15px; */
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 120px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    clear: both;
+    display: grid;
+}
+
+button#onclickbtn21 {
+    background: #fb5200;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    /* margin: 15px; */
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 120px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    clear: both;
+    display: grid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
