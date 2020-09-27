@@ -1,0 +1,146 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: #00ffd0b8;
+    overflow: hidden;
+}
+
+.container {
+    /* border: 5px solid white; */
+    width: 1140px;
+    margin: auto;
+    height: 100%;
+}
+
+.row {
+    border: 1px solid #b79f9f87;
+    height: 600px;
+    margin: auto;
+    margin-top: 20px;
+    background: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)), url(img/img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.calculator {
+    height: 550px;
+    width: 320px;
+    background: #ffffffa8;
+    margin: auto;
+    margin-top: 20px;
+    box-shadow: 1px -2px 13px 4px #000000a6;
+    border-top: 1px solid #5600ff94;
+    border-left: 1px solid #74ef28ab;
+    border-radius: 5px;
+}
+
+
+div#result {
+    height: 200px;
+	width:100%;
+}
+
+div#history {
+    height: 100px;
+    width:100%;
+}
+
+div#output {
+    height: 100px;
+    width:100%;
+}
+
+div#keybord {
+    height: 300px;
+	width:100%;
+}
+
+
+.operator {
+    height: 40px;
+    width: 40px;
+    margin-left: 30px;
+    border: none;
+    place-items: center;
+    border-radius: 50%;
+    font-size: 16px;
+    float: left;
+    margin-top: 20px;
+    margin-bottom:5px;
+    background: #349684;
+    color: white;
+}
+
+.number {
+    border: none;
+    height: 40px;
+    width: 40px;
+    margin-left: 30px;
+    border: none;
+    place-items: center;
+    border-radius: 50%;
+    font-size: 16px;
+    float: left;
+    margin-top: 20px;
+    margin-bottom:5px;
+    background: #999;
+    color: black;
+	font-weight: bold;
+}
+
+.empty {
+    border: none;
+    height: 40px;
+    width: 40px;
+    margin-left: 30px;
+    border: none;
+    place-items: center;
+    border-radius: 50%;
+    font-size: 16px;
+    float: left;
+    margin-top: 20px;
+	margin-bottom:5px;
+	background: #fb5200;
+	color:white;
+}
+
+
+.dot {
+    text-align: center;
+    font-weight: 800;
+    font-size: 15px;
+}
+
+
+p#outputValue {
+    float: right;
+    font-size: 16px;
+    color: #0e0000;
+    font-family: arial black;
+    letter-spacing: 1.5px;
+	margin-right:10px;
+}
+
+p#historyValue {
+    float: right;
+    font-size: 12px;
+    color: #504343;
+    font-family: arial black;
+    letter-spacing: 1.5px;
+    margin-right: 10px;
+}
+
+
+p.icon {
+    text-transform: uppercase;
+    color: #fb5500;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+i.fas.fa-calculator {
+    margin-right: 5px;
+}
+
+
